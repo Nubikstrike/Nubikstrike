@@ -38,7 +38,7 @@
 
 ---
 <p align="center">
-  <video src="./mp4/mell.mp4" width="300" autoplay controls loop></video>
+  <img src="./pic/mell.png" width="1054"/>
 </p>
 
 
